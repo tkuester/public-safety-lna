@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lna-filt)(type KiCad)(uri ${KIPRJMOD}/lna-filt.pretty)(options "")(descr ""))
+)
